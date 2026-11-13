@@ -29,6 +29,15 @@ Open `index.html` in a desktop browser (double-click). Nothing to install.
 
 Add `?seed=1234` to the address to visit another world. The same seed always gives the same world.
 
+![img_1.png](img_1.png)
+Game Screenshot 1
+
+![img_2.png](img_2.png)
+Game Screenshot 2
+
+![img_3.png](img_3.png)
+Game screenshot 3
+
 ## Changing it
 
 `index.html` is generated. Edit the files in `src/`, then run:
