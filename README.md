@@ -29,14 +29,9 @@ Open `index.html` in a desktop browser (double-click). Nothing to install.
 
 Add `?seed=1234` to the address to visit another world. The same seed always gives the same world.
 
-![img_1.png](img_1.png)
-Game Screenshot 1
-
-![img_2.png](img_2.png)
-Game Screenshot 2
-
-![img_3.png](img_3.png)
-Game screenshot 3
+![Screenshot 2026-11-13 at 19.24.15.png](Screenshot%202026-11-13%20at%2019.24.15.png)
+![Screenshot 2026-11-13 at 19.24.42.png](Screenshot%202026-11-13%20at%2019.24.42.png)
+![Screenshot 2026-11-13 at 19.25.16.png](Screenshot%202026-11-13%20at%2019.25.16.png)
 
 ## Changing it
 
