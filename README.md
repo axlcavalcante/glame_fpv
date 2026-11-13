@@ -9,6 +9,10 @@ Fable 5.2 is insanely impressive, considering this game was built from just four
 
 Still, even though Fable 5.2 did a phenomenal job, Tsutomu Nihei is impossible to replicate—not because of the visuals, but because of the unique experience his work gives the reader.
 
+
+![img.png](img.png)
+Megastructure as seen on the manga
+
 # Glame! — playable demo
 
 Open `index.html` in a desktop browser (double-click). Nothing to install.
