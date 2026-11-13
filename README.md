@@ -5,9 +5,9 @@ It's easy to see that this "game" is heavily inspired by my favorite manga, [Bla
 
 Blame! falls into that so-called "impossible to adapt" category of work. While I genuinely think that's true, I wanted to test the limits of Fable 5.2 (Anthropic's current frontier model as of November 2026). The result is far from perfect; at a quick glance, it might resemble Nihei's work, but the bottom line is:
 
-Fable 5.2 is insanely impressive, considering this game was built from just four images and a ~20-line prompt. Most of the aesthetic was pulled simply from online descriptions of the Netsphere universe.
-
-Still, even though Fable 5.2 did a phenomenal job, Tsutomu Nihei is impossible to replicate—not because of the visuals, but because of the unique experience his work gives the reader.
+  - Fable 5.2 is insanely impressive, considering this game was built from just four images and a ~20-line prompt. Most of the aesthetic was pulled simply from online descriptions of the Netsphere universe.
+    
+  - Still, even though Fable 5.2 did a phenomenal job, Tsutomu Nihei is impossible to replicate—not because of the visuals, but because of the unique experience his work gives the reader.
 
 
 ![img.png](img.png)
